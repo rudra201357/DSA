@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rudra201357/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +27,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1446-consecutive-characters](https://github.com/rudra201357/DSA/tree/master/1446-consecutive-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/rudra201357/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+## Hash Table
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
