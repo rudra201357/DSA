@@ -5,8 +5,8 @@ public:
         int k=0;
         for(i;i<nums.size();i++){
            if(k<2 || nums[i] != nums[k-2]){
-            nums[k] = nums[i];
-            k++;
+            nums[k++] = nums[i];
+            
            }
         }
         return k;
