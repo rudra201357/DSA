@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rudra201357/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/rudra201357/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
+| [2615-sum-of-distances](https://github.com/rudra201357/DSA/tree/master/2615-sum-of-distances) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rudra201357/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Math
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/rudra201357/DSA/tree/master/2615-sum-of-distances) |
 | [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/rudra201357/DSA/tree/master/2460-apply-operations-to-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/rudra201357/DSA/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
