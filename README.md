@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rudra201357/DSA/tree/master/0027-remove-element) |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rudra201357/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/rudra201357/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
