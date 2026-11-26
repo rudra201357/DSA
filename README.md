@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rudra201357/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rudra201357/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rudra201357/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2460-apply-operations-to-an-array](https://github.com/rudra201357/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
 | [2615-sum-of-distances](https://github.com/rudra201357/DSA/tree/master/2615-sum-of-distances) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rudra201357/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rudra201357/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rudra201357/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rudra201357/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2460-apply-operations-to-an-array](https://github.com/rudra201357/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -81,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/rudra201357/DSA/tree/master/2615-sum-of-distances) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rudra201357/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rudra201357/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rudra201357/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
