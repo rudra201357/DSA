@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
+| [3360-stone-removal-game](https://github.com/rudra201357/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rudra201357/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/rudra201357/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [3360-stone-removal-game](https://github.com/rudra201357/DSA/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
