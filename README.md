@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
 | [2615-sum-of-distances](https://github.com/rudra201357/DSA/tree/master/2615-sum-of-distances) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rudra201357/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rudra201357/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/rudra201357/DSA/tree/master/2615-sum-of-distances) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rudra201357/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
