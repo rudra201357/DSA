@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rudra201357/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rudra201357/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rudra201357/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/rudra201357/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/rudra201357/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
 | [2615-sum-of-distances](https://github.com/rudra201357/DSA/tree/master/2615-sum-of-distances) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/rudra201357/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
 ## Two Pointers
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rudra201357/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rudra201357/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rudra201357/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/rudra201357/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/rudra201357/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
