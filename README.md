@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1446-consecutive-characters](https://github.com/rudra201357/DSA/tree/master/1446-consecutive-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/rudra201357/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rudra201357/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Hash Table
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/rudra201357/DSA/tree/master/2615-sum-of-distances) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rudra201357/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rudra201357/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/rudra201357/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Counting
+|  |
+| ------- |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rudra201357/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 <!---LeetCode Topics End-->
