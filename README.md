@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/rudra201357/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rudra201357/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
 ## Two Pointers
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rudra201357/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/rudra201357/DSA/tree/master/3527-find-the-most-common-response) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rudra201357/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
