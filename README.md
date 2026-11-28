@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/rudra201357/DSA/tree/master/3527-find-the-most-common-response) |
 | [3934-smallest-unique-subarray](https://github.com/rudra201357/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/rudra201357/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rudra201357/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -73,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/rudra201357/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rudra201357/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/rudra201357/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rudra201357/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2607-make-k-subarray-sums-equal](https://github.com/rudra201357/DSA/tree/master/2607-make-k-subarray-sums-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rudra201357/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rudra201357/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/rudra201357/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
