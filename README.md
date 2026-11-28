@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rudra201357/DSA/tree/master/0027-remove-element) |
+| [0059-spiral-matrix-ii](https://github.com/rudra201357/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rudra201357/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rudra201357/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/rudra201357/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/rudra201357/DSA/tree/master/0059-spiral-matrix-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/rudra201357/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3360-stone-removal-game](https://github.com/rudra201357/DSA/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/rudra201357/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/rudra201357/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/rudra201357/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
